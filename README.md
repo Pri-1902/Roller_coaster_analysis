@@ -21,6 +21,7 @@ The dataset consists of several columns like coaster_name,Length,Speed	Location,
 - Histograms
 - Kernel Density Estimates (KDE)
 - Boxplots
+
 **4. Bivariate & Multivariate Analysis**
 - Explored relationships between features using:
 - Scatterplots
